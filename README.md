@@ -14,8 +14,8 @@
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/NOTPROTOX/shit-chess
+    cd shit-chess
     ```
 
 2. Create a virtual environment:

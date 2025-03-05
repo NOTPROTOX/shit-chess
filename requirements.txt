@@ -1,0 +1,4 @@
+tkinter
+python-chess
+pygame
+Pillow
